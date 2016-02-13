@@ -1,0 +1,25 @@
+{
+  "name": "clientservice",
+  "version": "1.0.0",
+  "description": "gApp client service",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbarrufet/gApp.git"
+  },
+  "keywords": [
+    "gApp"
+  ],
+  "author": "XBT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbarrufet/gApp/issues"
+  },
+  "homepage": "https://github.com/xbarrufet/gApp#readme"
+}
